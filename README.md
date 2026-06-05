@@ -69,8 +69,7 @@ I'm a **Junior DevOps Engineer** passionate about building scalable infrastructu
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GurramNithish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurramNithish&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=GurramNithish&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
 
 </div>
 
@@ -78,12 +77,16 @@ I'm a **Junior DevOps Engineer** passionate about building scalable infrastructu
   <img src="https://streak-stats.demolab.com/?user=GurramNithish&theme=tokyonight&hide_border=true" height="180em" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GurramNithish&theme=tokyonight" />
+</div>
+
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GurramNithish&theme=darkhub&no-frame=true&no-bg=true&margin-w=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GurramNithish&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4" />
 </div>
 
 ---
