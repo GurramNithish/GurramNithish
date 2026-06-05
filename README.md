@@ -68,12 +68,6 @@ I'm a **Junior DevOps Engineer** passionate about building scalable infrastructu
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=GurramNithish&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
-
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=GurramNithish&theme=tokyonight&hide_border=true" height="180em" />
 </div>
 
@@ -83,10 +77,10 @@ I'm a **Junior DevOps Engineer** passionate about building scalable infrastructu
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GurramNithish&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GurramNithish&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
