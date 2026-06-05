@@ -18,7 +18,7 @@
 <!-- SECTION B: ABOUT ME -->
 ## 🙋‍♂️ About Me
 
-I'm a **Junior DevOps Engineer** passionate about building scalable infrastructure, automating workflows, and bridging the gap between development and operations. Fresh out of the gate and hungry to ship!
+I'm a Junior DevOps Engineer passionate about building scalable infrastructure, automating workflows, and bridging the gap between development and operations. Fresh out of the gate and hungry to ship!
 
 - 🔧 I live in the world of **Linux terminals, Docker containers, and Terraform configs**
 - ☁️ Building and breaking things on **AWS** — it's how you really learn
