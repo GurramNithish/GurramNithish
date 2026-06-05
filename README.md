@@ -1,9 +1,9 @@
-<!-- SECTION G: VISITOR COUNTER -->
+<!-- VISITOR COUNTER -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=GurramNithish&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<!-- SECTION A: ANIMATED HEADER -->
+<!-- ANIMATED HEADER -->
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Wave"/>
   <h1>Hey there! I'm Gurram Nithish Kumar</h1>
@@ -15,10 +15,9 @@
 
 ---
 
-<!-- SECTION B: ABOUT ME -->
 ## 🙋‍♂️ About Me
 
-I'm a Junior DevOps Engineer passionate about building scalable infrastructure, automating workflows, and bridging the gap between development and operations. Fresh out of the gate and hungry to ship!
+I'm a **Junior DevOps Engineer** passionate about building scalable infrastructure, automating workflows, and bridging the gap between development and operations. Fresh out of the gate and hungry to ship!
 
 - 🔧 I live in the world of **Linux terminals, Docker containers, and Terraform configs**
 - ☁️ Building and breaking things on **AWS** — it's how you really learn
@@ -28,7 +27,6 @@ I'm a Junior DevOps Engineer passionate about building scalable infrastructure, 
 
 ---
 
-<!-- SECTION C: TECH STACK -->
 ## 🛠️ Tech Stack
 
 ### ⚙️ DevOps & Cloud Tools
@@ -56,46 +54,40 @@ I'm a Junior DevOps Engineer passionate about building scalable infrastructure, 
 
 ---
 
-<!-- SECTION D: SOCIAL MEDIA LINKS -->
 ## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nithish-kumar-gurram-98589226b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Nithish%20Kumar%20Gurram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-YOUR__GITHUB__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/GurramNithish" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-GurramNithish-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-<!-- SECTION E: GITHUB STATS -->
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=GurramNithish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=GurramNithish&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurramNithish&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" alt="Top Languages"/>
 </div>
 
 ---
 
-<!-- SECTION F: GITHUB TROPHIES -->
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=GurramNithish&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-<!-- SECTION H: FOOTER -->
 ## 🤝 Let's Connect & Build Together
 
 <div align="center">
@@ -104,7 +96,7 @@ I'm a Junior DevOps Engineer passionate about building scalable infrastructure, 
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/GurramNithish">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
@@ -121,4 +113,5 @@ I'm a Junior DevOps Engineer passionate about building scalable infrastructure, 
   ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B42BC&height=100&section=footer)
 
 </div>
+
 
